@@ -20,8 +20,8 @@ reactnative-task/
 
 ## Prerequisites
 
-- Node.js installed (preferably the latest LTS version).
-- Expo CLI or React Native CLI installed globally.
+- Node.js installed.
+- Expo CLI or React Native CLI installed.
 
 ## Features
 
@@ -40,7 +40,7 @@ The layout includes:
 ### Components and Styling
 
 **Flexbox Layout:** The layout is implemented using Flexbox properties (flex, alignItems, justifyContent) for responsive design.\
-***Styling:** All styles are defined in the StyleSheet.create() method for modular and scalable styling.\
+**Styling:** All styles are defined in the StyleSheet.create() method for modular and scalable styling.\
 **Local Assets:** Images (round.jpg, john.png) are loaded using require().\
 **Main Components**\
 **Header Image:** A round image representing the recipient.\
