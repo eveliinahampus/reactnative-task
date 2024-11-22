@@ -38,11 +38,12 @@ The layout includes:
 - A styled "Continue" button at the bottom of the layout.
 
 ### Components and Styling
-**Flexbox Layout:** The layout is implemented using Flexbox properties (flex, alignItems, justifyContent) for responsive design.
-***Styling:** All styles are defined in the StyleSheet.create() method for modular and scalable styling.
-**Local Assets: **Images (round.jpg, john.png) are loaded using require().
-**Main Components**
-**Header Image: **A round image representing the recipient.
-**User Information:** Displays the transaction success message, recipient name, sender name, and email.
-**Transaction Details:** Includes the transaction date and reference number.
-**Button:** A TouchableOpacity styled as a button with an action handler.
+
+**Flexbox Layout:** The layout is implemented using Flexbox properties (flex, alignItems, justifyContent) for responsive design.\
+***Styling:** All styles are defined in the StyleSheet.create() method for modular and scalable styling.\
+**Local Assets:** Images (round.jpg, john.png) are loaded using require().\
+**Main Components**\
+**Header Image:** A round image representing the recipient.\
+**User Information:** Displays the transaction success message, recipient name, sender name, and email.\
+**Transaction Details:** Includes the transaction date and reference number.\
+**Button:** A TouchableOpacity styled as a button with an action handler.\
